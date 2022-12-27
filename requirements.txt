@@ -30,7 +30,7 @@ virtualenv==15.1.0
 virtualenv-clone==0.2.6
 wheel==0.30.0
 textmagic==2.0.3
-setuptools==39.0.1
+setuptools==65.5.1
 python-firebase==1.2
 pip==9.0.3
 
